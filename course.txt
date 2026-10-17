@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Course: DevOps with Jenkins
+=======
+Course: DevOps with Git
+>>>>>>> feature-course
